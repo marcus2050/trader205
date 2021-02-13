@@ -12,6 +12,8 @@
 #main {
 	background-color: #444444;
 	text-align: right;
+	width: 500px;
+	height: 500px;
 }
 
 #footer{
