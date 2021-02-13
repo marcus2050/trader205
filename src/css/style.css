@@ -1,5 +1,4 @@
 body {
-
 	background-color: #666666;
 }
 
@@ -10,9 +9,9 @@ body {
 }
 
 #DIAND {
-
 	font-size: 3
-
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #footer {
