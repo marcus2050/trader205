@@ -11,6 +11,7 @@ body {
 
 #main {
 
+	text-align: left
 
 
 }
@@ -18,4 +19,5 @@ body {
 #footer {
 	padding: 10px;
 	background-color: #555555;
+	text-align: right;
 }
