@@ -1,19 +1,20 @@
-body {
-	background-color: #666666;
+#container {
+	background-color: #555555;
 }
 
 
 #header {
-	background-color: #666666;
-	text-align: center;
+	background-color: #999999;
+	color: white;
+	text-align: left;
+
+}
+#main {
+	background-color: #444444;
+	text-align: right;
 }
 
-#DIAND {
-	
-}
-
-#footer {
-	padding: 10px;
-	background-color: #555555;
+#footer{
+	#background-color: #000000;
 	text-align: right;
 }
