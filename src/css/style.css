@@ -1,21 +1,21 @@
 body {
 
-	background-color: #666666
+	background-color: #666666;
 }
 
 
 #header {
-	background-color: #666666
+	background-color: #666666;
 	text-align: center;
 }
 
 #main {
 
 
-	
+
 }
 
 #footer {
-
-	background-color: #555555
+	padding: 10px;
+	background-color: #555555;
 }
