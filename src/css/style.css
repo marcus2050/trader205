@@ -1,9 +1,8 @@
-#container {
+#container{
 	background-color: #555555;
 }
 
-
-#header {
+#header{
 	background-color: #999999;
 	color: white;
 	text-align: left;
@@ -14,11 +13,11 @@
 #search{
 	text-align: right;
 }
-#main {
+#main{
 	background-color: #444444;
 	text-align: right;
 	width: 1000px;
-	height: 1000px;
+	height: auto;
 }
 
 #footer{
