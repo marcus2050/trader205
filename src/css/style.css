@@ -6,7 +6,7 @@
 	background-color: #999999;
 	color: white;
 	text-align: left;
-	height: 75px;
+	height: 150px;
 	padding: 10px;
 }
 
@@ -20,12 +20,12 @@
 	color: white;
 	width: auto;
 	height: 3000px;
-	padding: 10px;
+	padding: 5px;
 }
 
 #footer{
 	background-color: #000000;
 	text-align: right;
 	height: 150px;
-	padding: 30px;
+	padding: 5px;
 }
