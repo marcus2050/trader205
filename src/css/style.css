@@ -15,13 +15,15 @@
 }
 #main{
 	background-color: #444444;
-	text-align: right;
+	text-align: left;
 	width: auto;
 	height: 1000px;
+	padding: 10px;
 }
 
 #footer{
 	background-color: #000000;
 	text-align: right;
 	height: 150px;
+	padding: 30px;
 }
