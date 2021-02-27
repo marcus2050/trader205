@@ -1,2 +1,2 @@
-# trader205
-# follow me on twitter @marcus
+# trader205.com
+# follow me on twitter @marcus68746011
