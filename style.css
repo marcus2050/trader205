@@ -29,12 +29,14 @@ p{
 }
 
 a{
-	font-family: arial;	
+	font-family: arial;
+	font-size: 25px;
 	text-decoration: none;
 	color: #111;
-	font-size: 25px;
 	padding: 10px;
+	font-weight: 700; 
 }
+
 header{
 	display: flex;
 	justify-content: space-around;
@@ -59,17 +61,23 @@ header{
 
 #info{
 	margin: 10px;
+	padding: 10px;
+	height: 300px;
+	width: auto;
+	background-color: #bcbab8;
+	color: #111;
 }
 
 #main{
-	margin: 10px;
+	margin: 50px;
 	padding: 10px;
-	background-color: #bcbab8;
 	height: 1000px;
-	color: #f9f9f9;
+	width: auto;
+	background-color: #bcbab8;
+	color: #111;
 }
 
-.user{
+#user{
 	padding-bottom: 150px;
 
 }
@@ -79,17 +87,15 @@ header{
 	height: 150px;
 	border-radius: 75px;
 	float: left;
-	margin-right: 10px;
-	
+	margin-right: 10px;	
 }
 
-#footer{
+#box{
 	margin: 10px;
 	padding: 10px;
-	background-color: #777;
 	height: 300px;
 	width: auto;
 	filter: blur(10px);
 	background: rgba(225,225,225, .3);
-
 }
+
