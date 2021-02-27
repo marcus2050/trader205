@@ -91,5 +91,6 @@ header{
 	height: 300px;
 	width: auto;
 	filter: blur(10px);
+	background: rgba(225,225,225, .3);
 
 }
