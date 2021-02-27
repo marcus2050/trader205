@@ -22,14 +22,18 @@ h3{
 }
 
 p{
-	padding: 5px;
+	font-family: arial;
+	font-size: 15px;
 	margin-left: 10px;
+	padding: 5px;
 }
 
 a{
+	font-family: arial;	
 	text-decoration: none;
-	color: #f9f9f9;
-
+	color: #111;
+	font-size: 25px;
+	padding: 10px;
 }
 header{
 	display: flex;
@@ -58,11 +62,12 @@ header{
 }
 
 #main{
-	margin: 0px;
+	margin: 10px;
 	padding: 10px;
 	background-color: #bcbab8;
 	height: 1000px;
 	color: #f9f9f9;
+	filter: blur(30px);
 }
 
 .user{
@@ -80,11 +85,11 @@ header{
 }
 
 #footer{
-	margin: 0px;
+	margin: 10px;
 	padding: 10px;
-	background-color: #333;
+	background-color: #777;
 	height: 300px;
 	width: auto;
-	color: #f9f9f9;
+	filter: blur(30px);
 
 }
