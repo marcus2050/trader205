@@ -66,7 +66,7 @@ header{
 	height: 150px;
 	width: auto;
 	color: #111;
-	background: rgba(225,225,225, .5);
+	background: rgba(225,225,225, .2);
 	border-radius: 1rem;
 }
 
@@ -74,9 +74,17 @@ header{
 	margin: 50px;
 	padding: 10px;
 	height: 1000px;
-	width: auto;
+	width: 750px;
 	color: #111;
-	background: rgba(225,225,225, .5);
+	background: rgba(225,225,225, .2);
+	border-radius: 1rem;
+}
+
+#section{
+	padding: 10px;
+	height: 500px;
+	color: #111;
+	background: rgba(225,225,225, .2);
 	border-radius: 1rem;
 }
 
@@ -98,7 +106,7 @@ header{
 	padding: 10px;
 	height: 150px;
 	width: auto;
-	background: rgba(225,225,225, .5);
+	background: rgba(225,225,225, .2);
 	border-radius: 1rem;
 	text-align: center;
 }
