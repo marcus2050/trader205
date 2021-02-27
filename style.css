@@ -64,8 +64,9 @@ header{
 	padding: 10px;
 	height: 300px;
 	width: auto;
-	background-color: #bcbab8;
 	color: #111;
+	background: rgba(225,225,225, .3);
+	border-radius: 1rem;
 }
 
 #main{
@@ -73,12 +74,14 @@ header{
 	padding: 15px;
 	height: 1000px;
 	width: auto;
-	background-color: #bcbab8;
 	color: #111;
+	background: rgba(225,225,225, .3);
+	border-radius: 1rem;
+
 }
 
 #user{
-	padding-bottom: 150px;
+	padding-bottom: 100px;
 
 }
 
@@ -91,12 +94,11 @@ header{
 }
 
 #box{
-	margin: 10px;
+	margin: 50px;
 	padding: 10px;
 	height: 300px;
 	width: auto;
 	filter: blur(1px);
 	background: rgba(225,225,225, .3);
-	border-radius: 3rem;
+	border-radius: 1rem;
 }
-
