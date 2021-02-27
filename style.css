@@ -70,7 +70,13 @@ header{
 	border-radius: 1rem;
 }
 
-#main{
+#content{
+	display: flex;
+	justify-content: space-around;
+	align-items: left;
+}
+
+#traders{
 	margin: 50px;
 	padding: 10px;
 	height: 1000px;
@@ -81,6 +87,7 @@ header{
 }
 
 #section{
+	margin: 50px;
 	padding: 10px;
 	height: 500px;
 	color: #111;
