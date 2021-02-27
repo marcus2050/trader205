@@ -26,7 +26,7 @@ p{
 	font-size: 15px;
 	font-weight: 500; 
 	margin-left: 10px;
-	padding: 10px;
+	padding: 5px;
 }
 
 a{
@@ -68,6 +68,7 @@ header{
 	color: #111;
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
+	filter: blur(5px);
 }
 
 #main{
@@ -75,15 +76,14 @@ header{
 	padding: 15px;
 	height: 1000px;
 	width: auto;
+	filter: blur(5px);
 	color: #111;
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
-
 }
 
 #user{
-	padding-bottom: 100px;
-
+	padding-bottom: 75px;
 }
 
 #avatar{
@@ -100,7 +100,7 @@ header{
 	padding: 10px;
 	height: 300px;
 	width: auto;
-	filter: blur(1px);
+	filter: blur(5px);
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
 }
