@@ -63,12 +63,11 @@ header{
 #info{
 	margin: 50px;
 	padding: 10px;
-	height: 300px;
+	height: 150px;
 	width: auto;
 	color: #111;
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
-	filter: blur(5px);
 }
 
 #main{
@@ -76,7 +75,6 @@ header{
 	padding: 15px;
 	height: 1000px;
 	width: auto;
-	filter: blur(5px);
 	color: #111;
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
@@ -95,12 +93,11 @@ header{
 	padding: 10px;
 }
 
-#box{
+#footer{
 	margin: 50px;
 	padding: 10px;
 	height: 300px;
 	width: auto;
-	filter: blur(5px);
 	background: rgba(225,225,225, .3);
 	border-radius: 1rem;
 }
