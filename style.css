@@ -60,7 +60,7 @@ header{
 }
 
 #info{
-	margin: 10px;
+	margin: 50px;
 	padding: 10px;
 	height: 300px;
 	width: auto;
@@ -70,7 +70,7 @@ header{
 
 #main{
 	margin: 50px;
-	padding: 10px;
+	padding: 15px;
 	height: 1000px;
 	width: auto;
 	background-color: #bcbab8;
@@ -95,7 +95,8 @@ header{
 	padding: 10px;
 	height: 300px;
 	width: auto;
-	filter: blur(10px);
+	filter: blur(1px);
 	background: rgba(225,225,225, .3);
+	border-radius: 3rem;
 }
 
