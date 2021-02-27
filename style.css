@@ -90,6 +90,6 @@ header{
 	background-color: #777;
 	height: 300px;
 	width: auto;
-	filter: blur(30px);
+	filter: blur(10px);
 
 }
