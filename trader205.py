@@ -7,14 +7,7 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
-@app.route('/contact')
+@app.route('/task')
 def contact():
-	return render_template('contact.html')
+	return render_template('task.html')
 
-@app.route('/about')
-def about():
-	return render_template('about.html')
-
-@app.route('/people')
-def people():
-	return render_template('people.html')
